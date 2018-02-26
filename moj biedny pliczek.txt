@@ -1,1 +1,2 @@
 To jest moja pierwsza linia
+To jest moja druga linia
